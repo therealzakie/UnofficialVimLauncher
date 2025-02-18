@@ -13,7 +13,7 @@ Please use **terminal** or **command prompt (cmd)** to use this script.
 ## How to install this lovely dudly python script!
 
 ### On UNIX-based (like Linux/MacOS) or Windows (From Windows 7 to Windows 11, due to Vim 9 compatibility) systems:
-- Make sure **git** is installed. If not, try installing git ([Windows Systems](https://github.com/git-for-windows/git/releases/latest)) ([Linux Systems](https://git-scm.com/downloads/linux)) ([](url))
-- Open **Terminal**.
+- Make sure **git** is installed. If not, try installing git ([Windows Systems](https://github.com/git-for-windows/git/releases/latest)) ([Linux Systems](https://git-scm.com/downloads/linux)) ([Macintosh Systems](https://www.geeksforgeeks.org/how-to-install-git-on-mac/))
+- Open **Terminal** or **Command Line (cmd)**.
 - Run ```git clone https://github.com/therealzakie/UnofficialVimLauncher.git```. This will grab EVERYTHING in this repository and place it in your currently selected directory.
 - Then Run ```cd UnofficialVimLauncher``` and ```python main.py``` or ```python3 main.py```.
