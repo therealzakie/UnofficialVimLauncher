@@ -4,6 +4,8 @@ An unofficial launcher for Vim just for easy access and beginners who do not kno
 
 ## Required Materials
 
+Any version of Python!
+
 Vim needs to be installed. To install Vim, try this **[Stack Overflow answer](https://stackoverflow.com/a/61747019)**.
 
 **THIS PROGRAM WILL NOT RUN IN IDLE.**
