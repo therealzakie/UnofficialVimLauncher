@@ -1,3 +1,5 @@
+This file will be outdated pretty soon. If you would like a .app file (like vim.app), go to [this link](macOS_app).
+
 # UnofficialVimLauncher's MacOS Dock Executable
 
 First of all, we are using the ```zsh``` terminal, not the ```bash``` terminal.
