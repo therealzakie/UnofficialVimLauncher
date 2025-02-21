@@ -1,4 +1,4 @@
-# UnofficialVimLauncher
+# Unofficial Vim Launcher
 
 An unofficial launcher for Vim just for easy access and beginners who do not know a thing about the terminal :)
 
@@ -19,3 +19,10 @@ Please use **terminal** or **command prompt (cmd)** to use this script.
 - Open **Terminal** or **Command Line (cmd)**.
 - Run ```git clone https://github.com/therealzakie/UnofficialVimLauncher.git```. This will grab EVERYTHING in this repository and place it in your currently selected directory.
 - Then Run ```cd UnofficialVimLauncher``` and ```python main.py``` or ```python3 main.py```.
+
+### (Alternative) ```.pkg``` file for MacOS:
+- Make sure your MacOS system can open ```.pkg``` files.
+- Open [Unofficial Vim Launcher.pkg](https://github.com/therealzakie/UnofficialVimLauncher/blob/master/Unofficial%20Vim%20Launcher.pkg) to begin the installation.
+- Go through the steps to install ```Unofficial Vim Launcher.app```.
+- **If saved for all users of the computer, go to your ```Applications``` folder inside of your startup disk or ```/```.**
+- **If saved for only this user, go to your home folder (the folder with your username) then go to ```Applications```.**
