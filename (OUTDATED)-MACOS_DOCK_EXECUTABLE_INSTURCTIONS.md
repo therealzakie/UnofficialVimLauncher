@@ -1,4 +1,4 @@
-This file will be outdated pretty soon. If you would like a .app file (like vim.app), go to [this link](macOS_app).
+This file will be outdated pretty soon. If you would like a .app file (like vim.app), go to [this link](Packages/macOS).
 
 # UnofficialVimLauncher's MacOS Dock Executable
 
